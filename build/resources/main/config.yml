@@ -1,8 +1,0 @@
-block-creative: # NOTICE: This applies to any item moved around while in the creative inventory, even if the player already had that item!
-  lazy: false # clears item meta from every creative item. this breaks some normal items
-  block-states: false # clears item meta from items with block states, such as containers (recommended)
-  spawn-eggs: false # clears item meta from spawn eggs
-  spawners: false # clears item meta from mob spawners
-  minecarts: false # clears item meta from minecarts
-  enchantments: false # clears item meta from items with impossible enchantment levels
-  books: false # clears item meta from written/writable books

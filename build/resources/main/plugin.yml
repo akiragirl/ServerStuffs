@@ -1,8 +1,0 @@
-name: ServerStuffs
-version: '1.0-alpha'
-main: akira.serverStuffs.Main
-api-version: '1.21'
-prefix: ServerStuffs
-load: STARTUP
-authors: [ hybridtheorygirl ]
-description: A plugin that attempts to safeguard creative mode.
